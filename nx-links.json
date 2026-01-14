@@ -2,10 +2,10 @@
     "cfws": {
         "Atmosphere": {
             "Kefir 793": "https://github.com/rashevskyv/kefir/releases/download/793/kefir793.zip",
-            "Kefir 783 (only for emunand with 20.5.0FW or earlier)": "https://github.com/rashevskyv/kefir/releases/download/783/kefir783.zip"
         }
     },
     "firmwares": {
+        "21.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.1.0/Firmware.21.1.0.zip",
         "20.5.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
         "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
     }

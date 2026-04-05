@@ -1,9 +1,7 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 806": "https://github.com/rashevskyv/kefir/releases/download/806/kefir806.zip",
-            "Kefir 804": "https://github.com/rashevskyv/kefir/releases/download/804/kefir804.zip",
-            "Kefir 795": "https://github.com/rashevskyv/kefir/releases/download/795/kefir795.zip"
+            "Kefir 807": "https://github.com/rashevskyv/kefir/releases/download/807/kefir807.zip"
         }
     },
     "firmwares": {

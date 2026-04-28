@@ -1,11 +1,11 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 814": "https://github.com/rashevskyv/kefir/releases/download/814/kefir814.zip"
+            "Kefir 817": "https://github.com/rashevskyv/kefir/releases/download/817/kefir817.zip"
         }
     },
     "firmwares": {
-        "21.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip",
+        "22.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.1.0/Firmware.22.1.0.zip",
         "20.5.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
         "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
     }

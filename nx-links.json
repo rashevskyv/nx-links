@@ -1,12 +1,12 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 903": "https://github.com/rashevskyv/kefir/releases/download/903/kefir903.zip"
+            "Kefir 910": "https://github.com/rashevskyv/kefir/releases/download/910/kefir910.zip"
         }
     },
     "firmwares": {
         "22.5.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.5.0/Firmware.22.5.0.zip",
-        "20.5.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
-        "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
+        "22.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/22.1.0/Firmware.22.1.0.zip",
+        "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1r/Firmware.19.0.1.Rebootless.zip"
     }
 }
